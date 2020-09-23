@@ -40,7 +40,7 @@ MacBookPro12,1
 
 # Install ComboJack
 1. Extract ZIP file.
-2. Right click at folder Combojack_Installer, choose **New Terminal at Folder**.
+2. Right click at folder ComboJack_Installer, choose **New Terminal at Folder**.
     <p align="center" style="margin:20px">
     <img src="/img/combojack-1.png" alt="Right click to open Terminal">
     </p>
