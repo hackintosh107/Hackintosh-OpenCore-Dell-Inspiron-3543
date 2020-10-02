@@ -1,8 +1,8 @@
 # Hackintosh-Opencore-Dell-Inspiron-3543
-Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
+Intel Core i3-5005U, Intel HD Graphics 5500
 
 # Specifications:
-* CPU: Intel Core i5-5200U
+* CPU: Intel Core i3-5005U
 * GPU: 
   - Intel HD Graphics 5500
   - NVIDIA GeForce 920M
@@ -18,7 +18,6 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 # Working:
 - [x] Intel HD Graphics 5500
 - [x] Brightness slider
-- [x] Night shift
 - [x] Speaker
 - [x] Headphones (with ComboJack)
 - [x] Internal microphone
@@ -28,11 +27,9 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 - [x] Wi-Fi (with Heliport)
 - [x] Ethernet
 - [x] Bluetooth
-- [x] iCloud - Facetime - iMessage - Siri
-- [x] Airport
 - [x] CPU power management
 - [x] Webcam
-- [x] All USB ports
+- [x] USB ports
 - [ ] NVIDIA GeForce 920M **(Disabled)**
 
 # SMBIOS:
@@ -40,7 +37,7 @@ MacBookPro12,1
 
 # Install ComboJack
 1. Extract ZIP file.
-2. Right click at folder ComboJack_Installer, choose **New Terminal at Folder**.
+2. Right click at folder Combojack_Installer, choose **New Terminal at Folder**.
     <p align="center" style="margin:20px">
     <img src="/img/combojack-1.png" alt="Right click to open Terminal">
     </p>
